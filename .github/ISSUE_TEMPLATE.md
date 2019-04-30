@@ -46,6 +46,6 @@
 - then that
 
 
-[1]: https://github.com/jobackman/issue-templates/issues/new?template=bug.md&labels=bug
-[2]: https://github.com/jobackman/issue-templates/issues/new?template=enhancement.md&labels=enhancement
+[1]: https://github.com/jobackman/issue-templates/issues/new?template=bugs.md&labels=bug
+[2]: https://github.com/jobackman/issue-templates/issues/new?template=enhancements.md&labels=enhancement
 
