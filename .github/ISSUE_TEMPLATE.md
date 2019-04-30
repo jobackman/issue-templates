@@ -1,4 +1,13 @@
 <!-- Things to consider in your issue:
+<!-- ---------------------------------
+<!-- Write a clear enough description of the issue for everyone to understand why it is an issue
+<!-- Include the testing requirements we demand for this issue, if any
+<!-- Are there dependencies that need to be done before this can be dealt with?
+<!-- Is there customer value in this issue?
+<!-- Go through demo steps as specifically as possible to avoid misintepretation
+<!-- --------------------------------- -->
+
+
 * Type of issue (enhancement, bug, etc.)
 * How to demo or how to reproduce
 * Is there customer value in this?
@@ -7,27 +16,28 @@
 * Dependencies to other issues (external dependencies)
 -->
 
-**Type:** <!-- Type of issue (enhancement, bug): -->
+**Type:**
 - [ ] bug
 - [ ] enhancement
 
-**Description:** <!-- Write a clear enough description of the issue for everyone to understand why it is an issue -->
+
+**Description:**
 
 
-**Testing requirement(s)** <!-- Include the testing requirements we demand for this issue, if any -->
+**Testing requirement(s)**
 - [ ] unit test
 - [ ] e2e test
 - [ ] regression test
 - [ ] manual testing
 
-**Dependencies:** <!-- Are there dependencies that need to be done before this can be dealt with? -->
+**Dependencies:**
 
 
-**Customer value:** <!-- Is there customer value in this issue? -->
+**Customer value:**
 
 
 ---
 
-**How to demo:** <!-- As specific as possible to avoid misintepretation -->
+**How to demo:**
 - Do this
 - then that
