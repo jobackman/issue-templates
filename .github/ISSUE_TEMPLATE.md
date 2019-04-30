@@ -7,15 +7,6 @@
 <!-- Go through demo steps as specifically as possible to avoid misintepretation
 <!-- --------------------------------- -->
 
-
-* Type of issue (enhancement, bug, etc.)
-* How to demo or how to reproduce
-* Is there customer value in this?
-* Make a clear enough description of the issue for everyone to understand why it is an issue
-* What type of tests (unit, manual, E2E)
-* Dependencies to other issues (external dependencies)
--->
-
 **Type:**
 - [ ] bug
 - [ ] enhancement
