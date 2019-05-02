@@ -1,3 +1,12 @@
+---
+name: "Feature"
+about: Add a new feature request
+title: ''
+labels: enhancement
+assignees: ''
+
+---
+
 <!-- Things to consider in your feature:
 <!-- ---------------------------------
 <!-- Write a clear enough description of the issue for everyone to understand why it is an issue

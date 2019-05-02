@@ -1,3 +1,11 @@
+---
+name: "Bug report"
+about: Report a new bug
+title: ''
+labels: bug
+assignees: ''
+
+---
 <!-- Things to consider when filing a bug:
 <!-- -------------------------------------
 <!-- Write a clear enough description of the bug for everyone to understand why it is an issue
