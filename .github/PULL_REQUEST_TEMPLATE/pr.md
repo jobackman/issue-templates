@@ -1,3 +1,12 @@
+---
+name: 'Pull Request'
+about: Open a new PR to be merged
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!-- Thank you for your contribution! Make sure that `make all test` passes!
 https://github.com/tobiipro/support-firecloud/blob/master/doc/working-with-git-pr.md :
 
